@@ -1,0 +1,62 @@
+{
+  "name": "chat-2-sql",
+  "version": "1.0.0",
+  "description": "Un chatbot intelligent qui permet d'interagir avec une base de données MySQL en langage naturel, alimenté par Google Gemini AI et LangChain",
+  "main": "src/src/app.py",
+  "keywords": [
+    "chatbot",
+    "sql",
+    "natural-language",
+    "mysql",
+    "ai",
+    "gemini",
+    "langchain",
+    "nlp",
+    "database",
+    "flask",
+    "react"
+  ],
+  "author": {
+    "name": "Your Name",
+    "email": "your.email@example.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/chat-2-sql.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/chat-2-sql/issues"
+  },
+  "homepage": "https://github.com/yourusername/chat-2-sql#readme",
+  "engines": {
+    "node": ">=14.0.0",
+    "python": ">=3.8.0"
+  },
+  "scripts": {
+    "start": "cd webapp && npm start",
+    "build": "cd webapp && npm run build",
+    "test": "cd webapp && npm test",
+    "install-deps": "cd webapp && npm install",
+    "setup": "npm run install-deps",
+    "dev": "concurrently \"cd src/src && python app.py\" \"cd webapp && npm start\"",
+    "backend": "cd src/src && python app.py",
+    "frontend": "cd webapp && npm start"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "dependencies": {},
+  "files": [
+    "src/",
+    "webapp/",
+    "images/",
+    "README.md",
+    "requirements.txt",
+    "setup.py"
+  ],
+  "directories": {
+    "doc": "images",
+    "test": "webapp/src"
+  }
+}
