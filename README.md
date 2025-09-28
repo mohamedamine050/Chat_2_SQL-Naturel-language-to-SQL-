@@ -14,7 +14,7 @@ Ce projet permet aux utilisateurs de poser des questions en langage naturel sur 
 ## 📸 Captures d'Écran
 
 ### Interface Principale
-![Page d'accueil](./images/architecture.png)
+![Page d'accueil](./images/Architecture.png)
 
 ### Chat en Action
 ![Conversation SQL](./images/exmple.png)
@@ -279,4 +279,5 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 - LangChain pour le framework LLM
 - Flask pour l'API backend
 - React pour l'interface utilisateur#
+
 
