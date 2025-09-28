@@ -78,8 +78,8 @@ chat_bot/
 
 1. **Cloner et naviguer**
    ```bash
-   git clone <repository-url>
-   cd chat_bot
+   git clone https://github.com/mohamedamine050/Chat_2_SQL-Naturel-language-to-SQL-.git
+   cd Chat_2_SQL
    ```
 
 2. **Créer l'environnement virtuel**
@@ -279,3 +279,4 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 - LangChain pour le framework LLM
 - Flask pour l'API backend
 - React pour l'interface utilisateur#
+
