@@ -278,4 +278,5 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 - Google Gemini pour l'IA conversationnelle
 - LangChain pour le framework LLM
 - Flask pour l'API backend
-- React pour l'interface utilisateur
+- React pour l'interface utilisateur#   C h a t _ 2 _ S Q L - N a t u r e l - l a n g u a g e - t o - S Q L -  
+ 
